@@ -1,0 +1,5 @@
+** init app
+** setting config, .env
+** setting swagger
+** setting mongodb conect
+
